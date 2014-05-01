@@ -1,4 +1,4 @@
 local_manifests
 ===============
 
-Just my local manifests for CM building incase someone wants to build just like I do.
+Just my local manifests for PA building (Sony) incase someone wants to build just like I do.
