@@ -4,4 +4,6 @@
  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-11.0" />
  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-11.0" />
  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-11.0" />
-</manifest>
+ <project path="device/sony/huashan" name="CyanogenMod/android_device_sony_huashan" remote="github" revision="cm-11.0" />
+ <project path="kernel/sony/msm8960t" name="CyanogenMod/android_kernel_sony_msm8960t" remote="github" revision="cm-11.0" />
+ </manifest>
